@@ -20,5 +20,5 @@ A chrome extension plugin for creating templates os emails.
 
 ## Screenshots
 
-![Plugin screenshot](https://ibb.co/8KTrGYb)
-![Plugin icon](https://ibb.co/b3wL4T0)
+![Plugin screenshot](https://i.ibb.co/5MtrCKk/image.png)
+![Plugin icon](https://i.ibb.co/0X4Z0T7/image.png)
